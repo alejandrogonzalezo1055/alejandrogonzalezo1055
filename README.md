@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a systems engineering student, i'm in fifth semester. I like backend development, the language that i have mastered is java, i love POO, and im trying to learn python to get more skills
+I'm a fifth semester systems enginneer student with experience in web development, specially in backend development, SW architecture, QA testing and REST architecture. Apart from systems engineer i like math and because of that i have seen 2 courses of pure mathematics, i will start a dual degree with math my next semester.
 
 
 ## 🌐 Socials:
